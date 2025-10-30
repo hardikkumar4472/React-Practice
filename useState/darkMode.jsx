@@ -5,6 +5,8 @@ export default function DarkMode() {
   return (
     <div
       style={{
+          margin: 0,
+          padding: 0,
         backgroundColor: dark ? "black" : "white",
         color: dark ? "white" : "black",
         padding: 20,
