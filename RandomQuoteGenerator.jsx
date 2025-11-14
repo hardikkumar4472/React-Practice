@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 function QuoteGenerator() {
     const quotes = [
-        "The only way to do great work is to love what you do. - Steve Jobs",
+        "The only way to do great work is to love what you do. - Steve Job",
         "Innovation distinguishes between a leader and a follower. - Steve Jobs",
         "Your time is limited, so don't waste it living someone else's life. - Steve Jobs",
         "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
